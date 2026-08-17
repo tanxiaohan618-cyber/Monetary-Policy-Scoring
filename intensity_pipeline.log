@@ -1,0 +1,33 @@
+2026-08-13 10:09:14,082 DEBUG Building prefix dict from the default dictionary ...
+2026-08-13 10:09:14,084 DEBUG Loading model from cache /var/folders/cm/l6n3xg5n2_j3yrpzqmpbm17m0000gn/T/jieba.cache
+2026-08-13 10:09:14,511 DEBUG Loading model cost 0.428 seconds.
+2026-08-13 10:09:14,511 DEBUG Prefix dict has been built successfully.
+2026-08-13 10:09:14,511 INFO 只使用项目目录: /Users/xiaohan/Desktop/project/textmining；不会访问strategy
+2026-08-13 10:09:14,665 INFO 语料去重后119份
+2026-08-13 10:09:24,758 INFO 程度词典列名适配: word=词语, level=等级序号(1弱-6强)
+2026-08-13 10:09:25,242 INFO 文件名自动适配: 请求sans.financial.word，实际使用sgns.financial.word
+2026-08-13 10:09:27,685 INFO 训练Seed: 语料内73，向量内73，缺向量0
+2026-08-13 10:09:35,929 INFO 完成: instances=72194, candidates=16, pairs=2117, pair_acc=1.000, rho=0.977, LOO=0.825
+2026-08-13 10:10:38,503 DEBUG Building prefix dict from the default dictionary ...
+2026-08-13 10:10:38,504 DEBUG Loading model from cache /var/folders/cm/l6n3xg5n2_j3yrpzqmpbm17m0000gn/T/jieba.cache
+2026-08-13 10:10:38,922 DEBUG Loading model cost 0.419 seconds.
+2026-08-13 10:10:38,923 DEBUG Prefix dict has been built successfully.
+2026-08-13 10:10:38,923 INFO 只使用项目目录: /Users/xiaohan/Desktop/project/textmining；不会访问strategy
+2026-08-13 10:10:39,074 INFO 语料去重后119份
+2026-08-13 10:10:48,999 INFO 程度词典列名适配: word=词语, level=等级序号(1弱-6强)
+2026-08-13 10:10:49,484 INFO 文件名自动适配: 请求sans.financial.word，实际使用sgns.financial.word
+2026-08-13 10:10:52,004 INFO 训练Seed: 语料内3，向量内3，缺向量0
+2026-08-13 10:11:27,511 DEBUG Building prefix dict from the default dictionary ...
+2026-08-13 10:11:27,512 DEBUG Loading model from cache /var/folders/cm/l6n3xg5n2_j3yrpzqmpbm17m0000gn/T/jieba.cache
+2026-08-13 10:11:27,915 DEBUG Loading model cost 0.404 seconds.
+2026-08-13 10:11:27,916 DEBUG Prefix dict has been built successfully.
+2026-08-13 10:11:27,916 INFO 只使用项目目录: /Users/xiaohan/Desktop/project/textmining；不会访问strategy
+2026-08-13 10:11:28,062 INFO 语料去重后119份
+2026-08-13 10:11:38,000 INFO 程度词典列名适配: word=词语, level=等级序号(1弱-6强)
+2026-08-13 10:11:38,487 INFO 文件名自动适配: 请求sans.financial.word，实际使用sgns.financial.word
+2026-08-13 10:11:40,784 INFO 训练Seed: 语料内34，向量内34，缺向量0
+2026-08-13 10:11:41,447 INFO 完成: instances=70158, candidates=14, pairs=474, pair_acc=1.000, rho=0.983, LOO=0.910
+2026-08-13 14:12:21,425 INFO 只使用textmining；候选发现忽略程度词典，词典仅训练锚点
+2026-08-13 14:13:04,983 INFO 完成: docs=119 raw_candidates=22053 embedding_candidates=600 pair_acc=0.937 rho=0.925
+2026-08-13 14:14:30,464 INFO 只使用textmining；候选发现忽略程度词典，词典仅训练锚点
+2026-08-13 14:15:13,446 INFO 完成: docs=119 raw_candidates=21643 embedding_candidates=363 pair_acc=0.937 rho=0.925

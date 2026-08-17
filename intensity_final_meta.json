@@ -1,0 +1,14 @@
+{
+  "union_terms": 146,
+  "scored_terms": 137,
+  "unscored_terms": 9,
+  "training_pairs": 474,
+  "pair_accuracy": 0.9367088607594937,
+  "vector_file": "sgns.financial.word",
+  "vector_dim": 300,
+  "normalization": "0.5 + 0.5*(rank_score-min)/(max-min), based on scored final union",
+  "score_range": [
+    0.5,
+    1.0
+  ]
+}
